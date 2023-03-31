@@ -9,9 +9,9 @@ One young lad with goals to make dumb projects for smart idiots.
 
  Smiling while  I still have real teeth.
 
->## Understanding 
+>## Comprehending
 
-- **C/C++** syntax 
+- **C++** 
 
 - Firm grasp of **Mandarin Chinese** 
 
