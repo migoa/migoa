@@ -31,6 +31,6 @@ Firm grasp of **Mandarin Chinese**
 <hr>
 
 **Desiring** to be a ***back-end*** dev
-exit **nv**i**m**
 
+exit **nv**i**m**
 </div>
