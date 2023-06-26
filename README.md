@@ -1,36 +1,21 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/111497717/202375115-2b54199b-39a9-47cf-b50c-577c2aca49c0.gif" width="100px" height="100px"><img src="https://user-images.githubusercontent.com/111497717/202377076-3bea81f5-4409-496a-8605-65485cb87661.gif" width="100px" height="100px">
-
-![](https://img.shields.io/badge/Migo's-blue?style=for-the-badge) ![](https://img.shields.io/badge/the-ff6666?style=for-the-badge) ![](https://img.shields.io/badge/name,-yellow?style=for-the-badge) ![](https://img.shields.io/badge/coding's-blueviolet?style=for-the-badge) ![](https://img.shields.io/badge/my-blue?style=for-the-badge) ![](https://img.shields.io/badge/game!-ff6600?style=for-the-badge)
-</h1>
-
-<br>
-
-<div align="center">
-
-**BIO**<span>mass</span>    
-<hr>
-
-<br>
-
-One young lad with goals to make **dumb projects** for **smart idiots**.
-
-Smiling while  I still have real teeth. 
-
-<br>
-
-### Comprehending
-<hr>
-<br>
-
-**C++** fundamentals and philosophies  <br>
-Firm grasp of **Mandarin Chinese** 
-
-<br>
-
-### Aspirations
-<hr>
-
-**Desiring** to be a ***back-end*** dev
-
-exit **nv**i**m**
-</div>
+```mermaid
+graph TD
+C-->E((Library)) --> F{{Reading}}
+A(Migo Ceredon) --> B(Hobbies) --> C{Go} --> D((Jim))
+B-->G{Play}
+G-->H{{Chess}}
+G-->I{{Dama}}
+B-->T{{Journaling}}
+B-->F
+A-->J(Languages)
+J-->K{Human} --> L{{Tagalog}} 
+K-->M{{English}}
+K-->N{{Chinese}}
+J-->O{Computer}
+O-->M
+M-->P((Python))
+P-->Q
+R-->Q
+O-->S{{JS}}
+O-->Q{{C/C++}}
+O-->R((Rust))
