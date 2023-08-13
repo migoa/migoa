@@ -1,3 +1,5 @@
+[ Non-desktop users won't see the portfolio]: #
+
 ```mermaid
 graph TD
 C-->E((Library)) --> F{{Reading}}
